@@ -1,4 +1,4 @@
-* {
+html {
   box-sizing: border-box;
 }
 
@@ -135,6 +135,7 @@ input:focus {
 }
 
 /* animatied background */
+
 .win {
   padding: 0 1em;
   background: linear-gradient(-45deg, #ff9d64, #f5620c);
