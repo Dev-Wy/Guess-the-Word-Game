@@ -1,4 +1,4 @@
-# RPG-Dragon-Repeller
+# Guess-the-Word-Game
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
